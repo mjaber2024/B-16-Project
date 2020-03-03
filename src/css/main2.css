@@ -1,0 +1,39 @@
+body {background: #121212; height: 100vh; margin: 0; padding: 0;}
+html {background: #121212; height: 100vh; margin: 0; padding: 0;}
+
+a {font-family:Calibri; text-decoration: blueviolet; color:white;}
+
+audio { padding:2px;  height:28px;margin: 2px; border:1px white solid;}
+
+h1 {font-family: sans-serif;}
+
+.all-in-m { height: 100%; margin: auto;
+
+}
+
+.t-name {color: #8653ff; font-family: Aharoni;}
+
+
+.box1 {background-color: #4d4e4d; color: #caccca;  margin:6px;
+text-align: center;  border:2px black solid; height:120px; width: 140px;display: inline-block;}
+
+#whoami {background-image:url('../whoami.png'); background-repeat: no-repeat;
+background-size:100% ;
+}
+
+.box1 a {font-size:20px; }
+
+header {background-color:black; font-size: 15px; text-align: center;
+margin-bottom:10px; border-bottom:1px #8653ff  solid;
+}
+
+header h1 {color:white; padding:6px; margin: 10px; }
+
+footer {background-color:black; font-size: 10px; text-align: center;
+    margin-top:10px; border-top:1px #8653ff solid;}
+
+footer h1 {color:white; margin: 0;padding: 8px; display: inline-block;}
+
+footer p {color:white; margin: 0; display: inline-block; float: right; padding: 12px}
+
+footer audio {padding: 15px}

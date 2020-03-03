@@ -1,0 +1,32 @@
+body {background: #121212; height: 100vh; margin: 0; padding: 0;}
+html {background: #121212; height: 100vh; margin: 0; padding: 0;}
+
+
+footer {background-color:black; font-size: 10px; text-align: center;
+    margin-top:10px; border-top:1px #8653ff solid;}
+
+footer h1 {color:white; margin: 0;padding: 8px; display: inline-block; padding:14px;}
+
+footer p {color:white; margin: 0; display: inline-block; float: right; padding: 12px;
+background:black; padding: 13px; }
+
+.t-name {color: #8653ff; font-family: Aharoni;}
+
+header {background-color:black; font-size: 15px; text-align: center;
+    margin-bottom:10px; border-bottom:1px #8653ff  solid;
+}
+
+.back {padding:10px; font-family: Calibri; font-size:20px;}
+
+a {font-family:Calibri; text-decoration: blueviolet; color:white;}
+
+p {color:white; font-family: Calibri; padding:10px;}
+
+h1 {color:white; font-family: Calibri; padding:10px;}
+
+h3 {color:white; font-family: Calibri; padding:10px; border-bottom:white 1px solid;}
+
+ul {color:white; background: grey; padding:5px; margin:5px;}
+
+header h1 {color:white; padding:6px; margin: 10px; }
+
